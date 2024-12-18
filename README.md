@@ -1,4 +1,4 @@
-# Meeting Time Spend Calculator
+# Meeting Time Calculator
 
 This program calculates the total time spent in meetings over a specified period using an `.ics` calendar file. It excludes events based on user-defined keywords from a configuration file (`appsettings.json`).
 
